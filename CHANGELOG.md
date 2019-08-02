@@ -2,6 +2,10 @@
 
 Framer Motion adheres to [Semantic Versioning](http://semver.org/).
 
+## Unreleased
+
+-   Simplifying event system.
+
 ## [1.5.0] Unreleased
 
 ### Added
